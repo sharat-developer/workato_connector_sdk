@@ -4,7 +4,7 @@ name: Report Bug
 about: Create a report to help us improve
 title: "[Bug] <Connector_name> | <Issue_title>"
 labels: bug
-projects: projects/3
+projects: 3
 
 ---
 
