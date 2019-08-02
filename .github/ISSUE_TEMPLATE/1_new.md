@@ -1,7 +1,7 @@
 ---
 
 name: New connector
-about: "Request to list a new connector on our [developer](developer.workato.com) site."
+about: "Request to list a new connector on our developer site."
 title: "[New] <Connector_name>"
 labels: new-connector
 projects: connector_sdk/1
