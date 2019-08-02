@@ -1,9 +1,9 @@
 ---
 name: Update connector
 about: Request to update the connector on our developer site.
-title: "[Enhancement] <Connector_name>"
+title: [Enhancement] <Connector_name>
 labels: enhancement
-assignees: ''
+projects: connector_sdk/3
 
 ---
 
