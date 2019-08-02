@@ -1,7 +1,7 @@
 ### Authentication type
 - api_key/basic/custom/none/oauth2
 _______
-### Action
+### Actions
 - [x] Create record
 _______
 ###  Triggers
