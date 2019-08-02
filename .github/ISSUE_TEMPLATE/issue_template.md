@@ -1,9 +1,11 @@
 ---
+
 name: 'New connector'
 title: '[New] <Connector_name>'
-about: 'Request to list the new connector on our developer site.'
 labels: 'new-connector'
-projects: '3'
+projects: 'sharat-developer/workato_connector_sdk/3'
+about: 'Request to list the new connector on our developer site.'
+
 ---
 
 ### Does a standard adapter exist?
