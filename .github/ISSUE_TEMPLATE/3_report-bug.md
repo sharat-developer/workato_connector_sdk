@@ -21,7 +21,7 @@ Steps to reproduce the behavior:
 A clear and concise description of what you expected to happen.
 
 
-** Identifiers (recipe/job/error ID)**
+**Identifiers (recipe/job/error ID)**
 If applicable, add screenshots to help explain your problem.
 
 
