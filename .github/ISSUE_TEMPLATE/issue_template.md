@@ -1,6 +1,7 @@
 ---
 name: 'issue_template.md'
 title: 'New connector'
+about: 'issue'
 labels: 'new-connector'
 ---
 
