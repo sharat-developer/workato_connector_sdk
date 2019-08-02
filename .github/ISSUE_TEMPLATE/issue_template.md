@@ -3,7 +3,7 @@ name: 'New connector'
 title: '[New] <Connector_name>'
 about: 'Request to list the new connector on our developer site.'
 labels: 'new-connector'
-projects: '1'
+projects: 'New connector listing tracker'
 ---
 
 ### Does a standard adapter exist?
