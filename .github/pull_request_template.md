@@ -1,11 +1,11 @@
-## Authentication type
+### Authentication type
 - api_key/basic/custom/none/oauth2
 _______
-## Action
+### Action
 - [x] Create record
 _______
-##  Triggers
+###  Triggers
 - [x] New/updated record
 _______
-## More Details
+### More Details
 **Issue:**  workato_connector_sdk/issues/2
