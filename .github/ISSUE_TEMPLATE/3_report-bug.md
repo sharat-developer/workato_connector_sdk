@@ -4,7 +4,7 @@ name: Report Bug
 about: Create a report to help us improve
 title: "[Bug] <Connector_name> | <Issue_title>"
 labels: bug
-projects: sharat-developer/workato_connector_sdk/projects/3
+projects: sharat-developer/workato_connector_sdk/3
 
 ---
 
