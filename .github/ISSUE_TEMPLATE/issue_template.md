@@ -3,7 +3,7 @@
 name: 'New connector'
 title: '[New] <Connector_name>'
 labels: 'new-connector'
-projects: 'https://github.com/sharat-developer/workato_connector_sdk/projects/3'
+projects: 'sharat-developer/workato_connector_sdk/projects/3'
 about: 'Request to list the new connector on our developer site.'
 
 ---
