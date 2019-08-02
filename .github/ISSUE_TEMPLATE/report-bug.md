@@ -1,7 +1,7 @@
 ---
 name: Report Bug
 about: Create a report to help us improve
-title: "[Bug]"
+title: "[Bug] <Connector_name> | <Issue_title>"
 labels: bug
 assignees: ''
 
