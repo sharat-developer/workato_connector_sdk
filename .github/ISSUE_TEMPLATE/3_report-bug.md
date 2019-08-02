@@ -1,9 +1,10 @@
 ---
+
 name: Report Bug
 about: Create a report to help us improve
 title: "[Bug] <Connector_name> | <Issue_title>"
 labels: bug
-assignees: ''
+projects: sharat-developer/workato_connector_sdk/projects/3
 
 ---
 
