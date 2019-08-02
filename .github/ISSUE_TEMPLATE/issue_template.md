@@ -3,7 +3,7 @@
 name: 'New connector'
 title: '[New] <Connector_name>'
 labels: 'new-connector'
-project: 'workato_connector_sdk/3'
+project: 'workato_connector_sdk/Bug tracker'
 about: 'Request to list the new connector on our developer site.'
 
 ---
