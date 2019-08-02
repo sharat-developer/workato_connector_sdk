@@ -2,7 +2,7 @@
 
 name: Report Bug
 about: Create a report to help us improve
-title: "[Bug] <Connector_name> | <Issue_title>"
+title: [Bug] <Connector_name> | <Issue_title>
 labels: bug
 projects: connector_sdk/4
 
