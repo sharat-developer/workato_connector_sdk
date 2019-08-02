@@ -1,10 +1,9 @@
 ---
-
-name: 'New connector'
-title: '[New] <Connector_name>'
-labels: 'new-connector'
-projects: 'workato_connector_sdk/3'
-about: 'Request to list a new connector on our developer site.'
+name: New connector
+about: Request to list a new connector on our developer site.
+title: "[New] <Connector_name>"
+labels: new-connector
+assignees: ''
 
 ---
 
@@ -22,4 +21,4 @@ _______
 - API docs link: 
 - Source link: 
 - Github PR: 
-- CS contact: 
+- CS contact:

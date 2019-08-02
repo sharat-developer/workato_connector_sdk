@@ -1,10 +1,9 @@
 ---
-
-name: 'Update connector'
-title: '[Enhancement] <Connector_name>'
-labels: 'enhancement'
-projects: 'workato_connector_sdk/3'
-about: 'Request to update the connector on our developer site.'
+name: Update connector
+about: Request to update the connector on our developer site.
+title: "[Enhancement] <Connector_name>"
+labels: enhancement
+assignees: ''
 
 ---
 
@@ -22,4 +21,4 @@ _______
 - API docs link: 
 - Source link: 
 - Github PR: 
-- CS contact: 
+- CS contact:
