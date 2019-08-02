@@ -3,7 +3,7 @@ name: 'New connector'
 title: '[New] <Connector_name>'
 about: 'Request to list the new connector on our developer site.'
 labels: 'new-connector'
-projects: 'New connector listing tracker'
+projects: 'workato_connector_sdk/projects/1'
 ---
 
 ### Does a standard adapter exist?
